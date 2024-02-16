@@ -18,6 +18,7 @@ Este projeto é um exemplo de um front-end para uma aplicação web. Ele utiliza
   
 # Tecnologias Utilizadas
 -HTML5
+
 -Tailwind CSS
 
 # Contato

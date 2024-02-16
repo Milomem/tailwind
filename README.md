@@ -17,9 +17,8 @@ Este projeto é um exemplo de um front-end para uma aplicação web. Ele utiliza
 - Responsividade: O layout se ajusta para diferentes tamanhos de tela, proporcionando uma boa experiência em dispositivos móveis.
   
 # Tecnologias Utilizadas
-HTML5
-Tailwind CSS
-JavaScript
+-HTML5
+-Tailwind CSS
 
 # Contato
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
